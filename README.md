@@ -137,5 +137,5 @@ This project demonstrates end-to-end data analytics skills including data prepro
 
 Author
 
-Ramakrishna Jujjuri
-B.Tech Student | Data Analytics & Python Enthusiast
+Ayenampudi Sri Vyshnavi
+B.Tech Student 
